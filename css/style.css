@@ -26,14 +26,14 @@ img {
 }
 
 .about-container {
-  background-image: url("/img/about.png");
+  background-image: url("../images/about.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 17%;
 }
 
 .donation {
-  background-image: url("/images/donation_bg.png");
+  background-image: url("../images/donation_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 2em 10em;
@@ -60,7 +60,7 @@ img {
 }
 
 .discover {
-  background-image: url("/images/discover.png");
+  background-image: url("../images/discover.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   color: #fff;
@@ -98,7 +98,7 @@ img {
 
 
 .footer-container {
-  background-image: url("/images/footer.png");
+  background-image: url("../images/footer.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
